@@ -9,3 +9,18 @@ I take a lot of knowledge about HTML today bia this video
 
 just Downloaded "Sublime Text"
 ---
+Sublime text is tool for web development
+It provide belew codes, I just type "<html>" and Enter
+  
+   <!DOCTYPE html>
+ <html>
+ <head>
+  	<meta charset="utf-8">
+  	<title></title>
+ </head>
+ <body>
+
+ </body>
+ </html>
+  
+  
