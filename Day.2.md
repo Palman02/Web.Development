@@ -5,6 +5,8 @@ Today I studied with the video in englsih
 English class is hard a bit yet for me but there are so may great to learn   
 I take a lot of knowledge about HTML today via this video   
 
+https://www.youtube.com/watch?v=3JluqTojuME   
+
 * * *
 
 Just downloaded "Sublime Text"
