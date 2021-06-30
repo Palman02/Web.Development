@@ -1,4 +1,4 @@
-Day 2
+Day 3
 ===
 Today I studied with the video in englsih too   
 
@@ -83,18 +83,7 @@ There is two way to put CSS code to your HTML code
   rel="stylesheet"
   type="text/css"
   />
-  ```   
-  
-  ->
-  
-  <html>
-    <h1> this is h1 </h1>
-    <h2> this is h2 </h2>
-    <h3> this is h3 </h3>
-    <h4> this is h4 </h4>
-    <h5> this is h5 </h5>
-    <h6> this is h6 </h6>
-  </html>
+  ```
      
   * * *
 
