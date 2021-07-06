@@ -78,13 +78,14 @@ There is two way to put CSS code to your HTML code
   Way that link the CSS code   
   You can fix all of desigh what CSS code is linked   
   
+ 
   ```
   <link href="style/CSScodefilename.css"
   rel="stylesheet"
   type="text/css"
   />
-  ```
-     
+  ```   
+  
   * * *
 
   
