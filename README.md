@@ -7,7 +7,7 @@ Because developer is good to make something in my mind
    
 The frontend of web dev is my startpoint
 
-학습 순서
+Load Map
 -------------
 
 #### 1. HTMP + CSS
