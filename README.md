@@ -1,20 +1,22 @@
 DevelopmentStudy.Web
 ===========
-웹 개발 공부 문서입니다
+This is doc about web dev   
 
-개발 공부를 시작하겠다고 마음을 먹었습니다
-웹 개발은 다른 많은 개발 도구들과 결을 함께하는 부분이 많기에 시작하기에 최고의 분야라는 생각이 들었습니다
+I just thought that I should start Development   
+Because developer is good to make something in my mind   
+   
+The frontend of web dev is my startpoint
 
 학습 순서
 -------------
 
 #### 1. HTMP + CSS
-인터렉티브한 부분을 제외한 모든 웹을 따라서 재현 가능할 정도로 공부합니다
+I can make all of web except interactive part   
 
-https://www.inflearn.com/course/html-css-%EA%B0%95%EC%A2%8C#
+https://www.inflearn.com/course/html-css-%EA%B0%95%EC%A2%8C#   
 
-#### 2. 바닐라 JS
-인터렉티브한 부분을 개발합니다
+#### 2. vanilla JS
+Developing interactive part
 
-#### 3. Node JS
-CRUD를 개발합니다
+#### 3. Node JS   
+Developing CRUD
